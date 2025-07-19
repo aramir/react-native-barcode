@@ -1,36 +1,39 @@
 {
-  "name": "@kichiyaki/react-native-barcode-generator",
-  "version": "0.6.7",
+  "name": "rn-barcode",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
   "typings": "index.d.ts",
-  "author": "Kichiyaki <dawidwysokinski000@gmail.com>",
+  "author": "Aramir <aramir.great@gmail.com>",
+  "contrubutors": [
+    "Aramir <aramir.great@gmail.com>"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kichiyaki/react-native-barcode-generator"
+    "url": "https://github.com/aramir/rn-barcode"
   },
   "bugs": {
-    "url": "https://github.com/Kichiyaki/react-native-barcode-generator/issues"
+    "url": "https://github.com/aramir/rn-barcode/issues"
   },
   "keywords": [
     "react-native",
-    "generator",
-    "barcode"
+    "barcode",
+    "generator"
   ],
   "dependencies": {
-    "jsbarcode": "^3.8.0"
+    "jsbarcode": "^3.12.1"
   },
   "peerDependencies": {
-    "react-native": ">=0.62.0",
     "prop-types": ">=15.5.0",
-    "react-native-svg": ">=12.1.0"
+    "react-native": ">=0.80.0",
+    "react-native-svg": ">=15.0.0"
   },
   "devDependencies": {
-    "@react-native-community/eslint-config": "^2.0.0",
-    "@types/react": "^17.0.0",
-    "@types/react-native": "^0.63.45",
-    "eslint": "^7.17.0",
-    "eslint-config-prettier": "^7.1.0",
-    "prettier": "^2.2.1"
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@types/react": "^19.1.8",
+    "@types/react-native": "^0.72.8",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2"
   }
 }
