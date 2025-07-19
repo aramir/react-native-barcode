@@ -30,7 +30,7 @@ yarn add react-native-svg rn-barcode
 | width      | `number`    | the width of a single bar                              |
 | maxWidth   | `number`    | the max width of the barcode                           |
 | height     | `number`    | the height of the barcode                              |
-| format     | `string`    | select which [barcode type](#supported-formats) to use |
+| format     | `string`    | barcode format                                         |
 | lineColor  | `string`    | set the color of a single bar                          |
 | background | `string`    | container background (`rgba(0,0,0,0)` for transparent) |
 | text       | `component` | an optional text that will be render under the barcode |
