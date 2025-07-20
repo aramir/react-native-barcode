@@ -1,5 +1,5 @@
 {
-  "name": "rn-barcode",
+  "name": "@aramir/react-native-barcode",
   "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aramir/rn-barcode"
+    "url": "https://github.com/aramir/react-native-barcode"
   },
   "bugs": {
-    "url": "https://github.com/aramir/rn-barcode/issues"
+    "url": "https://github.com/aramir/react-native-barcode/issues"
   },
   "keywords": [
     "react-native",

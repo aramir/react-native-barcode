@@ -13,13 +13,13 @@ Uses [jsbarcode](https://github.com/lindell/JsBarcode) to generate barcode binar
 Using npm:
 
 ```shell
-npm install --save react-native-svg rn-barcode
+npm install --save react-native-svg @aramir/react-native-barcode
 ```
 
 or using yarn:
 
 ```shell
-yarn add react-native-svg rn-barcode
+yarn add react-native-svg react-native-barcode
 ```
 
 ## Properties
