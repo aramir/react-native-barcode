@@ -1,6 +1,6 @@
 {
   "name": "@aramir/react-native-barcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -23,7 +23,7 @@
   "dependencies": {
     "jsbarcode": "^3.12.1",
     "prop-types": "^15.5.0",
-    "react-native": "^0.79.0",
+    "react-native": "^0.81.0",
     "react-native-svg": "^15.11.2"
   },
   "devDependencies": {
