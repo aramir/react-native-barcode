@@ -2,3 +2,4 @@ example
 node_modules
 yarn.lock
 images
+.idea

@@ -1,16 +1,16 @@
 {
   "name": "@aramir/react-native-barcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "index.js",
   "typings": "index.d.ts",
   "author": "Aramir <aramir.great@gmail.com>",
-  "contrubutors": [
+  "contributors": [
     "Aramir <aramir.great@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aramir/react-native-barcode"
+    "url": "got+https://github.com/aramir/react-native-barcode.git"
   },
   "bugs": {
     "url": "https://github.com/aramir/react-native-barcode/issues"
