@@ -40,9 +40,9 @@
     "jsbarcode": "^3.12.1"
   },
   "peerDependencies": {
-    "react": "^19.1.0",
-    "react-native": "^0.81.0",
-    "react-native-svg": "^15.11.2"
+    "react": ">=19",
+    "react-native": ">=0.81",
+    "react-native-svg": ">=15"
   },
   "devDependencies": {
     "@react-native/babel-preset": "^0.86.1",
